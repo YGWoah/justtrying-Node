@@ -1,0 +1,11 @@
+
+Beautiful Navigation Drawer in Android 🙂
+Leave a Comment	/ Android UI Design
+
+In this article, we are going to learn how to create a beautiful Navigation Drawer in Android by using Empty Activity.
+
+In the below image you can see that what are we going to build.
+
+Hope so you are interested to know how to make the above beautiful Navigation Drawer in Android, so now without wasting much time let’s start.
+
+You can also refer our video tutorial for same. 
